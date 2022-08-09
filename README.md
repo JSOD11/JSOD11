@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @JSOD11
+- 👾 Check out my repositories for ML/data science projects and minigames
 - 👀 Learn more about me: https://jsod11.github.io
 - 🌱 I’m currently an undergraduate at Harvard studying Computer Science
 - 📫 How to reach me: justinodwyer@college.harvard.edu
