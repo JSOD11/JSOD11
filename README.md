@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JSOD11
-- 👀 Learn more about me: jsod11.github.io
+- 👀 Learn more about me: https://jsod11.github.io
 - 🌱 I’m currently an undergraduate at Harvard studying Computer Science
 - 📫 How to reach me: justinodwyer@college.harvard.edu
 
