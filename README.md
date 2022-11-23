@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JSOD11
 - 👾 Check out my repositories for some of my projects
-- 👀 Learn more about me: https://jsod11.github.io
+- ✅ Learn more about me: https://jsod11.github.io
 - 🌱 CS at Harvard
 - 📫 How to reach me: justinodwyer@college.harvard.edu
 
